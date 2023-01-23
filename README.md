@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kyle Springborn
 - 👀 I’m interested in Assembly Language and Embedded Programming
-- 🌱 I’m currently learning Data Structures and Embedded Systems
+- 🌱 I’m currently learning User Interfaces, Database Management Systems, and Assembly Language (MIPS)
 - 📫 How to reach me: kylespringborn@gmail.com
 
 <!---
